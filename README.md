@@ -12,6 +12,8 @@ This course also teaches you how Deep Learning actually works, rather than prese
 
 This is the first course of the Deep Learning Specialization.
 
+[![Neural Networks and Deep Learning](http://img.youtube.com/vi/GG4z-HareQk/0.jpg)](http://www.youtube.com/watch?v=GG4z-HareQk "Deep Learning Specialization by deeplearning.ai — Trailer")
+
 ## Schedule
 
 ### Week 1
